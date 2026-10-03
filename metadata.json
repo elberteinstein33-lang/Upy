@@ -1,0 +1,6 @@
+{
+  "name": "Communication Mastery Lab",
+  "description": "AI-powered, decision-based roleplay simulator that trains real-world communication skills with live psychological meters and in-depth tactical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
